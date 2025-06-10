@@ -1062,6 +1062,7 @@ class NewsAnalyzer:
             ("wallstreetcn-hot", "华尔街见闻"),
             ("thepaper", "澎湃新闻"),
             ("bilibili-hot-search", "bilibili 热搜"),
+            ("xueqiu", "雪球"),
             ("cls-hot", "财联社热门"),
             ("ifeng", "凤凰网"),
             "tieba",
